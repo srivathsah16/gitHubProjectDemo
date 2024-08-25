@@ -1,0 +1,12 @@
+hi my name is Srivathsa H
+This is a text file. you can make any changes now in insert mode.
+This is a new change added in the file.
+hi 
+how 
+are you?
+
+I am good :)
+
+Super
+
+git is cool
