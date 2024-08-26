@@ -3,4 +3,4 @@ cat
 cow
 sheep
 lion
-tigeri
+tiger
